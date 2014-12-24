@@ -1,0 +1,10 @@
+{
+  "name": "my-project-name",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-contrib-watch": "~0.6",
+    "grunt-sass": "~0.17",
+    "node-sass": "~1.2"
+  }
+}
